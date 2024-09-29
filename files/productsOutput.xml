@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><products>
+    <product name="jeans">
+        <currency>Dollar</currency>
+        <price>14.95</price>
+        <stock>32</stock>
+        <color>red</color>
+        <storage>40</storage>
+    </product>
+    <product name="shirt">
+        <currency>Euro</currency>
+        <price>29.99</price>
+        <stock>21</stock>
+        <color>blue</color>
+        <storage>22</storage>
+    </product>
+</products>

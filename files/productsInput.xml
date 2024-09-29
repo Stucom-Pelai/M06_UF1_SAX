@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+	<product name="shirt">
+		<price badge="Euro">29.99</price>
+		<stock color="blue" storage="22">21</stock>
+	</product>
+	<product name="jeans">
+		<price badge="Dollar">14.95</price>
+		<stock color="red" storage="40">32</stock>
+	</product>
+</products>
